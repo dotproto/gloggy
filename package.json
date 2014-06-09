@@ -1,0 +1,24 @@
+{
+  "name": "gloggy",
+  "version": "0.0.0",
+  "description": "Simple Gist-powered blogging system",
+  "main": "http-server",
+  "private": true,
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/svincent/gloggy.git"
+  },
+  "author": "Simeon Vincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svincent/gloggy/issues"
+  },
+  "homepage": "https://github.com/svincent/gloggy",
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gloggy",
+  "version": "0.0.0",
+  "homepage": "glog.gy",
+  "authors": [
+    "Simeon Vincent <svincent@gmail.com>"
+  ],
+  "description": "Simple Gist-powered blogging system",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "*",
+    "angular-route": "~1.2.17"
+  }
+}
