@@ -1,0 +1,4 @@
+/* Active links in the nav bar */
+nav .active {
+	font-weight: bold;
+}
